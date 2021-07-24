@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+#num  {
+    margin: 0 0 3px 0;
+    padding: 2px;
+    border: 1px solid #f369be;
+    border-radius: 3px;
+    background: linear-gradient(#c499f5,#f042ad)
+}
+
